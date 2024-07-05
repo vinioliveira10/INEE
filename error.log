@@ -1,0 +1,4 @@
+downloader::copy web/down_loads/eficiencia/Eficie?ncia energe?tica_Pietro&Marcos.pdf io: read/write on closed pipe
+downloader::recursive io: read/write on closed pipe
+downloader::recursive io: read/write on closed pipe
+downloader::recursive io: read/write on closed pipe
